@@ -1,6 +1,0 @@
-template: profile-page
-data:
-  first_name: Random
-  last_name: Randomowitch
-  age: 34
-  profession: IT-nobody
